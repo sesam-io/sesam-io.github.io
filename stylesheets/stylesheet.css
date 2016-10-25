@@ -61,17 +61,17 @@ a {
 @media screen and (min-width: 64em) {
   .page-header {
     background-color: rgb(61,57,53)
-    padding: 2rem 5rem; } }
+    padding: 2rem 5rem 2rem 5rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
     background-color: rgb(61,57,53)
-    padding: 2rem 5rem; } }
+    padding: 2rem 5rem 2rem 5rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
     background-color: rgb(61,57,53)
-    padding: 2rem 5rem; } }
+    padding: 1rem 3rem 1rem 3rem; } }
 
 .headerimage {
   max-width: 64rem;
@@ -87,7 +87,7 @@ a {
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
     .headerimage {
-    padding: 2rem 4rem;
+    padding: 1rem 0rem;
     font-size: 1.1rem; } }
 
 @media screen and (max-width: 42em) {
@@ -110,12 +110,12 @@ img {
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
     img {
-    width: 30px;
+    width: 500px;
     height: auto; } }
 
 @media screen and (max-width: 42em) {
     img {
-    width: 300px;
+    width: 350px;
     height: auto;; } }
 
 .project-name {
