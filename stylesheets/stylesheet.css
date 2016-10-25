@@ -59,14 +59,17 @@ a {
 
 @media screen and (min-width: 64em) {
   .page-header {
+    background-color: rgb(61,57,53)
     padding: 4rem 5rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
+    background-color: rgb(61,57,53)
     padding: 4rem 5rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
+    background-color: rgb(61,57,53)
     padding: 4rem 5rem; } }
 
 .project-name {
