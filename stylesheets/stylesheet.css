@@ -87,13 +87,36 @@ a {
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
     .headerimage {
-    padding: 0rem 4rem;
+    padding: 2rem 4rem;
     font-size: 1.1rem; } }
 
 @media screen and (max-width: 42em) {
     .headerimage {
     padding: 0rem 1rem;
     font-size: 1rem; } }
+
+.project-name {
+  margin-top: 0;
+  margin-bottom: 0.1rem; }
+
+img {
+  width: 500px;
+  height: auto; }
+
+@media screen and (min-width: 64em) {
+    img {
+    width: 500px;
+    height: auto; } }
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    img {
+    width: 30px;
+    height: auto; } }
+
+@media screen and (max-width: 42em) {
+    img {
+    width: 300px;
+    height: auto;; } }
 
 .project-name {
   margin-top: 0;
