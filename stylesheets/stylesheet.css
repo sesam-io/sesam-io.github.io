@@ -4,7 +4,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "museo-sans-rounded", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: rgb(61,57,53); }
@@ -116,7 +116,7 @@ a {
   margin-bottom: 1em; }
 .main-content code {
   padding: 2px 4px;
-  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-family: "museo-sans-rounded", sans-serif;
   font-size: 0.9rem;
   color: #383e41;
   background-color: #f3f6fa;
@@ -125,7 +125,7 @@ a {
   padding: 0.8rem;
   margin-top: 0;
   margin-bottom: 1rem;
-  font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font: 1rem "museo-sans-rounded", sans-serif;
   color: #567482;
   word-wrap: normal;
   background-color: #f3f6fa;
